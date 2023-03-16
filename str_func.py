@@ -1,4 +1,6 @@
 def capital(word):
+    """ все буквы заглавные
+    """
     return word.upper()
 
 
